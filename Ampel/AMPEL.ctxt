@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AMPEL
+comment1.params=
+comment1.target=AMPEL()
+comment2.params=
+comment2.target=void\ RotSetzen()
+comment3.params=
+comment3.target=void\ RotgelbSetzen()
+comment4.params=
+comment4.target=void\ GruenSetzen()
+comment5.params=
+comment5.target=void\ GelbSetzen()
+comment6.params=
+comment6.target=void\ Weiterschalten()
+numComments=7
