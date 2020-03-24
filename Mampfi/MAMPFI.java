@@ -14,7 +14,6 @@ class MAMPFI {
         darstellung.StartWinkelSetzen(30);
         darstellung.MundBewegtSichSetzen(true);
     }
-    
     public void NachNordenBlicken() {
         blickrichtung = 'N';
         darstellung.StartWinkelSetzen(120);
