@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ZELLE
+comment1.params=xNeu\ yNeu
+comment1.target=ZELLE(int,\ int)
+comment2.params=istMauerNeu
+comment2.target=void\ IstMauerSeten(boolean)
+numComments=3
