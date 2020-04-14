@@ -12,7 +12,7 @@ class ZELLE{
         zSymbol.FuellFarbeSetzen("blau");
     }
 
-    void IstMauerSeten(boolean istMauerNeu){
+    void IstMauerSetzen(boolean istMauerNeu){
         istMauer = istMauerNeu;
         if(istMauer == true){
             zSymbol.FuellungSichtbarSetzen(true);
@@ -20,5 +20,9 @@ class ZELLE{
         else{
             zSymbol.FuellungSichtbarSetzen(false);
         }
+    }
+    
+    boolean IstMauerGeben(){
+        return istMauer;
     }
 }

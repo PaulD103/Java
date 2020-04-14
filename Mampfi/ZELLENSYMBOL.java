@@ -1,3 +1,6 @@
+
+
+
 /**
 *
 *Diese Klasse dient zur Dastellung einer ZELLE. Dabei ist darauf zu achten, dass
@@ -91,4 +94,3 @@ public class ZELLENSYMBOL extends ZellDarstellungImpl
     super.RandSichtbarSetzen(b);
   }
 }
-
