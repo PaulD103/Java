@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=LABYRINTH
+comment1.params=
+comment1.target=LABYRINTH()
+comment2.params=breiteNeu\ hoeheNeu
+comment2.target=LABYRINTH(int,\ int)
+comment3.params=
+comment3.target=int\ breiteGeben()
+comment4.params=
+comment4.target=int\ hoeheGeben()
+comment5.params=positionX\ positionY
+comment5.target=boolean\ IstMauerAufZelle(int,\ int)
+comment6.params=
+comment6.target=void\ GaengeErstellen()
+numComments=7
